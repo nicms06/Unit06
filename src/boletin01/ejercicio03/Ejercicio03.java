@@ -1,4 +1,4 @@
-package ejercicio03;
+package boletin01.ejercicio03;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package ejercicio02;
+package boletin01.ejercicio02;
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class Ejercicio02 {
     public static void main(String[] args) {
-        String ruta = "C:\\Users\\nicolas.mingorance\\IdeaProjects\\Unit06\\src\\ejercicio02\\Enteros.txt";
+        String ruta = "C:\\Users\\nicolas.mingorance\\IdeaProjects\\Unit06\\src\\boletin01\\ejercicio02\\Enteros.txt";
 
         double suma = 0;
         double contador = 0;

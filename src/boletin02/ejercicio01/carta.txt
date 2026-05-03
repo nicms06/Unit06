@@ -1,0 +1,8 @@
+Estimado amigo,
+
+Espero que este mensaje te encuentre muy bien.
+Te escribo para contarte que he estado aprendiendo a programar en Java.
+El manejo de ficheros de texto me parece muy util para guardar datos.
+
+Un saludo cordial,
+Tu compañero de curso.
